@@ -1,6 +1,6 @@
 {
   "name": "st-next",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "private": false,
   "author": "Andritiana Steve RAKOTONIMANANA",
   "repository": "https://github.com/andritianaa/st-next",
@@ -51,6 +51,7 @@
     "lucide-react": "^0.376.0",
     "next": "14.2.3",
     "next-themes": "^0.3.0",
+    "ora": "^8.0.1",
     "react": "^18",
     "react-day-picker": "^8.10.1",
     "react-dom": "^18",
