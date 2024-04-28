@@ -1,7 +1,9 @@
 {
   "name": "st-next",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "author": "Andritiana Steve RAKOTONIMANANA",
+  "repository": "https://github.com/andritianaa/st-next",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
